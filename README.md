@@ -1,2 +1,2 @@
 # EBAC
-Repositório para projetos do curso de programação da EBAC 
+Repositório para projetos do curso de TI da EBAC 
